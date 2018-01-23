@@ -1,0 +1,17 @@
+body	{font-family:Ariel, sans-serif;}
+button	{font-size: 90%; margin: 2px;}
+h2		{padding:20px 40px 0 40px;font-size: 14pt;}
+h3		{padding: 5px;text-align:center;font-size: 12pt;}
+.panelbold {text-effect: bold;}
+#topbanner	{background-color:#88b47f;height:60px;width:700px;}
+.bottbanner {background-color:#88b47f;height:60px;width:700px;}
+#bottombanner1	{background-color:#bdb76b;height:40px;width:700px;
+				clear:both;
+				}
+#mapdisplay	{height:500px;width:500px;align:left;background-image:url("map.jpg");padding: 0;float:left;}
+#buttonpanel	{background-color:#fdcec6;height:500px;width:200px;text-align:center;padding: 0;float:left;font-size: 11pt;}
+#sprite	{position: absolute;
+ 		 top: 234px;
+ 		 left: 190px;
+ 		 z-index: 10;
+ 		 }
